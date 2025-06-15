@@ -43,7 +43,7 @@ A fully functional **Notes App** built with **Jetpack Compose** following the **
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/notes-app-backend.git
+   git clone https://github.com/omkardhenge/notes-backend.git
    cd notes-app-backend
    ```
 
@@ -70,7 +70,7 @@ A fully functional **Notes App** built with **Jetpack Compose** following the **
 ### Frontend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/notes-app-frontend.git
+   git clone https://github.com/omkardhenge/notes_app-master.git
    ```
 
 2. Open the project in Android Studio.
@@ -93,7 +93,6 @@ https://your-backend-url.onrender.com
 ### Endpoints:
 - **GET /notes**: Fetch all notes.
 - **POST /save-notes**: Create a new note.
-- **GET /save-dummy-note**: Save a dummy note for testing.
 
 ---
 
